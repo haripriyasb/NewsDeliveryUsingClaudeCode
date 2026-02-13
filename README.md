@@ -1,4 +1,4 @@
-# NewsDeliveryUsingClaudeCode
+# News Delivery Using Claude Code
 # Daily Database & AI News Digest - Setup Documentation
 
 **Created:** February 12, 2026
